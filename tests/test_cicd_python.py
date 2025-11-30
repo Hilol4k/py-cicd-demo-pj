@@ -1,3 +1,2 @@
-def test_Git(word):
-  return word
-print (test_Git("test_GitHub"))
+def test_Git():
+  assert 2 + 2 == 4
